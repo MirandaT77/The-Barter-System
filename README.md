@@ -41,7 +41,7 @@ Are you tired of the clutter in your closet or garage? Ready to trade your paint
 * handlebars: npm i handlebars
 * multer: npm i multer
 
-## [Deployed Application:](https://glacial-temple-55453.herokuapp.com/) Go check it out!
+## [Deployed Application:](https://swapsies-project2.herokuapp.com/) Go check it out!
 
 ## Contributors to "The Barter System" Project:
  
